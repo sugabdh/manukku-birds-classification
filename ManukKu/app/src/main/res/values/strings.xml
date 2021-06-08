@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">ManukKu</string>
+    <string name="deteksi_btn">Deteksi</string>
+    <string name="list_btn">List</string>
+    <string name="forum_btn">forum</string>
+    <string name="hello_homepage">Hello.</string>
+    <string name="intro_homepage">Welcome to ManukKu.</string>
+    <string name="btn_kamera">Kamera</string>
+    <string name="btn_galeri">Galeri</string>
+    <string name="cari_burung">Cari Burung</string>
+    <string name="search_btn">Search</string>
+    <string name="dummyname_string">dummyname</string>
+
+    <string name="forum_nama">Masukan Nama Anda</string>
+    <string name="forum_komentar">Masukan Komentar Anda</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="nama_ilmiah_burung">Nama Ilmiah:</string>
+    <string name="status">Status:</string>
+    <string name="nama_burung">nama burung</string>
+    <string name="namaIlmiah">Nama Ilmiah :</string>
+    <string name="deskripsi_burung">Deskripsi Burung</string>
+    <string name="status_burung">Status burung</string>
+
+    <string-array name="nama_burung">
+        <item>Kakatua Tanimbar</item>
+        <item>Enggang Papan</item>
+        <item>Gelatik Jawa</item>
+        <item>Curik Bali</item>
+        <item>Junai Emas</item>
+    </string-array>
+
+    <string-array name="nama_ilmiah_burung">
+        <item>Cacatua goffiniana</item>
+        <item>Buceros bicornis</item>
+        <item>Lonchura oryzivora</item>
+        <item>Leucopsar rothschildi</item>
+        <item>Caloenas nicobarica</item>
+    </string-array>
+
+    <string-array name="status_burung">
+        <item>- Dilindungi di Indonesia
+                - CITES -> Appendix 1
+                - IUCN -> Near Threatened (NT)</item>
+        <item>- Dilindungi di Indonesia
+                - CITES -> Appendix 1
+                - IUCN -> Vulnerable (VU)</item>
+        <item>- Dilindungi di Indonesia
+                - CITES -> Appendix 2
+                - IUCN -> Endangered (EN)</item>
+        <item>- Dilindungi di Indonesia
+                - CITES -> Appendix 1
+                - IUCN -> Critically Endangered (CR)</item>
+        <item>- Dilindungi di Indonesia
+                - CITES -> Appendix 1
+                - IUCN -> Near Threatened (NT)</item>
+    </string-array>
+
+    <string-array name="deskripsi_burung">
+        <item>Kakatua Tanimbar atau Tanimbar Corella merupakan burung kakatua berukuran kecil yang endemik di kepulauan Tanimbar, Maluku Utara. Burung ini mirip dengan Kakatua Putih karena sama-sama memiliki jambul putih, namun berukuran lebih kecil dan memiliki warna merah muda di bagian mukanya. Kakatua tanimbar memiliki panjang sekitar 30 cm dan berat antara 250-300 gram.
+Sumber deskripsi : https://biodiversitywarriors.kehati.or.id/artikel/kakatua-tanimbar-cacatua-goffiana/?lang=en
+</item>
+        <item>Enggang besar ini dapat dijumpai di beberapa negara habitat alaminya yaitu Indonesia (Sumatera), Tiongkok, India, Bangladesh, Nepal, Butan, Myanmar, Thailand, Laos, Vietnam, Kamboja dan Semenanjung Malaysia. Enggang Papan mendiami hutan hujan tropis dan hutan gugur campuran (seperti pinus dan cemara). Mereka juga menjelajah ke hutan terbuka untuk mengunjungi pohon buah dan terbang ke lereng hingga ketinggian 2.000 m. Enggang Papan memiliki panjang tubuh 95-105 cm dan berat 2,1-3,4 kg. Balungnya berwarna kuning tua, berbentuk gepeng melebar dan cekung ke atas dengan ujung bercabang. Paruhnya cukup berat dan panjang, dengan rahang atas berwarna kuning tua, sedangkan pangkal rahang bawah berwarna putih dan ujungnya kuning. Buah ficus, buah pala dan buah drupa adalah pakan utama Enggang Papan. Saat musim berbiak, spesies ini juga mengonsumsi telur, serangga, cacing, siput dan kepiting. Serta memangsa amfibi, reptil, mamalia dan burung kecil; atau mencabik dan memotong kulit kayu. Biasanya, ukuran mangsa yang lebih besar dibenturkan pada dahan untuk membunuhnya dan dilunakkan dalam paruh untuk ditelan.
+Sumber deskripsi : https://rangkong.org/enggang-di-indonesia/enggang-papan</item>
+        <item>Gelatik jawa adalah sejenis burung pengicau berukuran kecil, dengan panjang lebih kurang 15 cm, dari suku Estrildidae. Burung gelatik Jawa memiliki kepala hitam, pipi putih dan paruh merah yang berukuran besar. Burung dewasa mempunyai bulu berwarna abu-abu, perut berwarna coklat kemerahan, kaki merah muda dan lingkaran merah di sekitar matanya. Burung jantan dan betina serupa. Burung muda berwarna coklat. Burung ini endemik dari Indonesia dan di alam ditemukan di hutan padang rumput, sawah dan lahan budidaya di Pulau Jawa dan Pulau Bali. Sekarang, spesies ini dikenali di banyak negara di seluruh dunia sebagai burung hias. erilakunya senang berkelompok dan cepat berpindah-pindah. Pakan utama burung ini adalah bulir padi atau beras, juga biji-bijian lain, buah, dan serangga. Burung betina menetaskan antara empat sampai enam telur berwarna putih, yang dierami oleh kedua tetuanya.
+Sumber deskripsi : https://id.wikipedia.org/wiki/Gelatik_jawa</item>
+        <item>Jalak Bali adalah sejenis burung pengicau berukuran sedang, dengan panjang lebih kurang 25cm, dari suku Sturnidae. Ia turut dikenali sebagai Curik ketimbang Jalak. Jalak Bali hanya ditemukan di hutan bagian barat Pulau Bali dan merupakan hewan endemik Indonesia. Burung ini juga merupakan satu-satunya spesies endemik Bali dan pada tahun 1991 dinobatkan sebagai lambang fauna Provinsi Bali. Jalak bali menyukai habitat hutan mangrove, hutan rawa, hutan musim dataran rendah dan daerah savana. Penyebaran jalak bali secara alami hanya terdapat di Taman Nasional Bali Barat (TNBB). Di habitat alaminya jalak bali termasuk jenis burung yang suka terbang secara berombongan, pada musim kawin yang berlangsung antara bulan September-Desember mereka terbang secara berpasangan sambil mencari makan.
+Sumber deskripsi : https://id.wikipedia.org/wiki/Jalak_bali</item>
+        <item>Junai emas adalah sejenis merpati berukuran sedang, dengan panjang sekitar 34cm, dari salah satu genus burung merpati Caloenas. Burung Junai emas memiliki bulu berwarna hitam keabuan dilapisi dengan hijau keemasan mengilap di bagian leher, mantel, punggung dan sayapnya. Bulu leher dan sayap memanjang. Paruhnya berwarna hitam dengan sedikit benjolan dipangkalnya. Jantan dan betina serupa. Burung dewasa memiliki ekor pendek berwarna putih, kaki abu-abu dengan cakar kuning. Burung muda berwarna kehitaman dengan bulu leher pendek dan kaki kecoklatan. Populasi Junai emas tersebar di kepulauan di daerah Asia Tenggara. Habitatnya adalah hutan hujan tropis, hutan pantai, hutan bakau dan hutan-hutan dataran rendah. Burung ini ditemukan di pulau Andaman, Nicobar, pulau-pulau kecil di sekitar Jawa, Sumatra, Sulawesi, Nusa Tenggara, Irian, Thailand, Filipina, Palau dan Kepulauan Solomon. Burung ini banyak menghabiskan waktunya di permukaan tanah, mencari makanan. Pakan burung Junai emas terdiri dari aneka biji-bijian, buah-buahan yang jatuh di tanah dan berbagai jenis hewan kecil.
+Sumber deskripsi : https://id.wikipedia.org/wiki/Junai_emas</item>
+    </string-array>
+
+    <string-array name="gambar_burung">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+    </string-array>
+
+</resources>

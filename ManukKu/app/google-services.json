@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54926621394",
+    "project_id": "manukku",
+    "storage_bucket": "manukku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54926621394:android:6ece21601af51622490b0b",
+        "android_client_info": {
+          "package_name": "com.bangkit.manukku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54926621394-kensurgp95nckia7r42nl9hqdoa14ocn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JhCYhICfFwJ6ylNRnzpfxMjWxoGe9H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54926621394-kensurgp95nckia7r42nl9hqdoa14ocn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
