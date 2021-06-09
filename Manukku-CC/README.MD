@@ -55,7 +55,7 @@
 ![Screenshot_42](https://user-images.githubusercontent.com/73900490/121335628-f7f63900-c944-11eb-93f6-72175abb9e56.png)
 
 
-## 9.Provide API key for firebaser service for Android team
+## 9.Provide API key for firebase service for Android team
 ![Screenshot_70](https://user-images.githubusercontent.com/73900490/121336050-5ae7d000-c945-11eb-9eb9-f595938db831.png)
 ![Screenshot_71](https://user-images.githubusercontent.com/73900490/121336214-810d7000-c945-11eb-90e3-a477c1d09f0c.png)
 
