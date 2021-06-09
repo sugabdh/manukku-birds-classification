@@ -23,9 +23,36 @@ We also test that tensorflow lite model, and get 85% accuracy.
 
 ### Detection
 how the detection system in this application works, first we embed the Machine Learning model in the form of a .tflite file into the Android program, then in the Android program, the program will first ask the user to enter input in the form of photos, either through the camera or gallery, then the photos that are displayed. selected will be used as input for the Machine Learning model, then the photo will be processed, the results obtained from the detection process by Machine Learning will be in the form of a string, the result of this string will be used to perform a query process to the server to load detailed bird data then the data will be displayed to the user interface .
+Detection can only be done if the uploaded photo is set to 1:1
 
 ### List
 In the list section, we store a list of bird names, and photos in the Android program (Local) and then display them as a list, when the user selects a list, the program will retrieve the bird name data, to perform a query process to the database, and then the details of the bird will be shown. For future development, we plan to store photo list data in the database, so that the file size will be smaller.
 
 ### Forum
 This forum feature cannot be used, because it is not yet fully finished, for further development, this forum feature will be completed and refined.
+
+## Cloud Computing
+
+### Project 
+Create gcp project for manukku and firebase project linked to manukku project in gcp
+
+### Budget & Alert
+Create a budget & alert so that our gcp project does not exceed the available budget
+
+### IAM & Admin
+Create a role for each team member so that they can access the gcp project and firebase project
+
+### Database
+Create a database using cloud firestore(details of the birds) and cloud storage(images of the birds). Manually input the bird details for list in cloud firestore and the bird pictures for list in cloud storage
+
+### Database Rules
+Create a rule to allow the application to read the database but require access to write
+
+### API
+Provide API key for firebase service for Android team so that they can access the required data in the database.
+
+### Cloud Function
+Create a function for cloud Function to automatically deploy model if you upload tflite model in cloud storage (the function was executed successfully but the model is larger than the 40 mb limit so the custom model created by the function does not contain anything inside)
+
+### Deploy Link fo Manukku apk
+Make deploy link for apk from manukku using app distribution. After you click the link, you will be directed to the website to register using an email with the @bangkit.academy domain so you can test the Manukku application. After that our team will add the email as a tester and will invite the email to be a tester. If you click get started and agree to become a tester and follow the steps in the email, then you will be able to download the manukku app
