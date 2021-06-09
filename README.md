@@ -18,3 +18,14 @@ For the testing image, we make a program, so its can display the True name, Pred
 And then we convert the model to tensorflow lite format, so its can deploy on Android Apps.
 
 We also test that tensorflow lite model, and get 85% accuracy.
+
+# Android
+
+### Detection
+how the detection system in this application works, first we embed the Machine Learning model in the form of a .tflite file into the Android program, then in the Android program, the program will first ask the user to enter input in the form of photos, either through the camera or gallery, then the photos that are displayed. selected will be used as input for the Machine Learning model, then the photo will be processed, the results obtained from the detection process by Machine Learning will be in the form of a string, the result of this string will be used to perform a query process to the server to load detailed bird data then the data will be displayed to the user interface .
+
+### List
+In the list section, we store a list of bird names, and photos in the Android program (Local) and then display them as a list, when the user selects a list, the program will retrieve the bird name data, to perform a query process to the database, and then the details of the bird will be shown. For future development, we plan to store photo list data in the database, so that the file size will be smaller.
+
+### Forum
+This forum feature cannot be used, because it is not yet fully finished, for further development, this forum feature will be completed and refined.
