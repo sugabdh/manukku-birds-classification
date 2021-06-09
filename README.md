@@ -34,25 +34,25 @@ This forum feature cannot be used, because it is not yet fully finished, for fur
 ## Cloud Computing
 
 ### Project 
-Create gcp project for manukku and firebase project linked to manukku project in gcp
+Create GCP project for manukku and firebase project linked to manukku project in GCP.
 
 ### Budget & Alert
-Create a budget & alert so that our gcp project does not exceed the available budget
+Create a budget & alert so that our GCP project does not exceed the available budget.
 
 ### IAM & Admin
-Create a role for each team member so that they can access the gcp project and firebase project
+Create a role for each team member so that they can access the GCP project and firebase project.
 
 ### Database
-Create a database using cloud firestore(details of the birds) and cloud storage(images of the birds). Manually input the bird details for list in cloud firestore and the bird pictures for list in cloud storage
+Create a database using Cloud Firestore(details of the birds) and Cloud Storage(images of the birds). Manually input the bird details for list in Cloud Firestore and the bird pictures for list in Cloud Storage.
 
 ### Database Rules
-Create a rule to allow the application to read the database but require access to write
+Create a rule to allow the application to read the database but require access to write.
 
 ### API
-Provide API key for firebase service for Android team so that they can access the required data in the database.
+Provide API key for Firebase service for Android team so that they can access the required data in the database.
 
 ### Cloud Function
-Create a function for cloud Function to automatically deploy model if you upload tflite model in cloud storage (the function was executed successfully but the model is larger than the 40 mb limit so the custom model created by the function does not contain anything inside)
+Create a function for Cloud Function to automatically deploy model if you upload tflite model in cloud storage (the function was executed successfully but the model is larger than the 40 mb limit so the custom model created by the function does not contain anything inside).
 
 ### Deploy Link for Manukku apk
-Make deploy link for apk from manukku using app distribution. After you click the link, you will be directed to the website to register using an email with the @bangkit.academy domain so you can test the Manukku application. After that our team will add the email as a tester and will invite the email to be a tester. If you click get started and agree to become a tester and follow the steps in the email, then you will be able to download the manukku app
+Make deploy link for apk from manukku using app distribution. After you click the link, you will be directed to the website to register using an email with the @bangkit.academy domain so you can test the Manukku application. After that our team will add the email as a tester and will invite the email to be a tester. If you click get started and agree to become a tester and follow the steps in the email, then you will be able to download the manukku app.
