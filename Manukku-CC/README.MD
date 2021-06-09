@@ -49,6 +49,8 @@
 
 ## 7.Manually input bird details for list in cloud firestore
 ![Screenshot_41](https://user-images.githubusercontent.com/73900490/121335393-be253280-c944-11eb-8845-291c87c43460.png)
+![Screenshot_77](https://user-images.githubusercontent.com/73900490/121346787-bcfa0280-c950-11eb-8d7b-256455f5de3d.png)
+
 
 
 ## 8.Put the bird pictures for list in cloud storage
