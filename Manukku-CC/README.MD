@@ -60,7 +60,7 @@ Cloud Computing Documentation
 ![Screenshot_71](https://user-images.githubusercontent.com/73900490/121336214-810d7000-c945-11eb-90e3-a477c1d09f0c.png)
 
 
-10.Createt cloud Function to automatically deploy model if upload tflite model in cloud storage(the function was executed successfully but the model is larger than the 40 mb limit so the custom model created by the function does not contain any content)
+10.Create cloud Function to automatically deploy model if you upload tflite model in cloud storage(the function was executed successfully but the model is larger than the 40 mb limit so the custom model created by the function does not contain any content)
 ![Screenshot_75](https://user-images.githubusercontent.com/73900490/121338719-f9753080-c947-11eb-9686-c975aceaed9d.png)
 ![Screenshot_76](https://user-images.githubusercontent.com/73900490/121338724-fbd78a80-c947-11eb-90e1-b7ff9c7744ae.png)
 ![Screenshot_72](https://user-images.githubusercontent.com/73900490/121337837-2543e680-c947-11eb-8eab-f541c38ce40d.png)
