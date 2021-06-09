@@ -19,7 +19,7 @@ And then we convert the model to tensorflow lite format, so its can deploy on An
 
 We also test that tensorflow lite model, and get 85% accuracy.
 
-# Android
+## Android
 
 ### Detection
 how the detection system in this application works, first we embed the Machine Learning model in the form of a .tflite file into the Android program, then in the Android program, the program will first ask the user to enter input in the form of photos, either through the camera or gallery, then the photos that are displayed. selected will be used as input for the Machine Learning model, then the photo will be processed, the results obtained from the detection process by Machine Learning will be in the form of a string, the result of this string will be used to perform a query process to the server to load detailed bird data then the data will be displayed to the user interface .
